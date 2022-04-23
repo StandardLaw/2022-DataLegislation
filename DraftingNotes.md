@@ -12,3 +12,5 @@ Drafting Note: Light rumination on the scope and approach: The basic scope is or
 Drafting Note: With Web3 and NFTs in particular, there is an opportunity to apply concepts of Data Producers Rights and User Generated Data in a way that affords better distinctions and options for users who generate data to maintain some rights and not just ot have the platform owners arrogate to themselves all critical ownership rights and decision. 
 
 Drafting Note: Develop some core scenarios and show how application of the Data Privacy and Security Act would provide predictable legal results and how the current situations (ccpa, etc, etc) is super confusing.  EG: Alice and Bob the heck out of this OR maybe try some basic use cases or scenarios. 
+
+Drafting Note: Review some of the AALE hacking on restatement of agency and application to basic DAO and other decentralized environments.
