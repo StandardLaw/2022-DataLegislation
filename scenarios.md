@@ -1,1 +1,4 @@
 Note:  Develop some core scenarios and show how application of the Data Privacy and Security Act would provide predictable legal results and how the current situations (ccpa, etc, etc) is super confusing.  EG: Alice and Bob the heck out of this OR maybe try some basic use cases or scenarios. 
+
+* Potential scenario: data breaches.
+* Potential scenario: ownership and control rights of individuals and organizations over their own damn data.
