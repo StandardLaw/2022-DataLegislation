@@ -1,0 +1,46 @@
+
+
+lb.dp.cases.casenumbers.1651540464.blob
+title: Data Breaches
+rights: The rights includes all of the data privacy right.
+description:
+
+actors:
+lb.dp.attribition.actors.organizational_digital_identity   
+lb.dp.attribition.actors.organization
+
+lb.dp.attribition.actors.organization 
+lb.dp.attribition.actors.malicious
+
+roles:  a gereral data role of DROP {place holder} for responsibilities and obligations lb.dp.applicability.roles.drop
+this alows for a role for  obligations  differnt then comsumer controlors and processors which data trusts do not fall into.
+
+lb.dp.taxonomy.roles.data.data_consumers.controlers
+lb.dp.taxonomy.roles.data.data_consumers.processors
+lb.dp.taxonomy.roles.data.data_trusts.trustees
+
+attribition.roles.organizational_digital_identity
+attribition.roles.malicious_actors
+
+dynamics: This includes data breach events by the malicious_actors and
+data_data_sets: all data sets not including:
+
+lb.dp.applicability.exempt.data
+lb.dp.applicability.exempt.data.HIPPA
+lb.dp.applicability.exempt.organizations
+lb.dp.applicability.exempt.organizations.size
+
+desired_outcome_or_goal: the desired outcome is to provide applicability of the statue based on various granularities of attribution and data qualifiers
+
+resolution_statute_provides: the resolution the statue provides is to provide applicability of right based not only on consumer protections but other metrics
+such as attribution by organization type such as lb.dp.attribition.actors.data_trusts which would have different rights then consumer data.
+Aside from attribution the statue provides for other applicability.qualifiers-
+
+lb.dp.applicability.qualifiers.organization.size
+lb.dp.applicability.qualifiers.organizations.catagories.socialmedia
+
+and a taxonomy of data qualifiers-
+lb.dp.taxonomy.data.qualifiers.degree_of_privatization.anonymized_data
+lb.dp.taxonomy.data.qualifiers.degree_of_privatization.identified_data
+lb.dp.taxonomy.data.qualifiers.degree_of_privatization.pseudonymized_data
+lb.dp.taxonomy.data.qualifiers.degree_of_privatization.unlinked_pseudonymized
