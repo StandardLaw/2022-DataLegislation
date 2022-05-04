@@ -1,7 +1,13 @@
 Note:  Develop some core scenarios and show how application of the Data Privacy and Security Act would provide predictable legal results and how the current situations (ccpa, etc, etc) is super confusing.  EG: Alice and Bob the heck out of this OR maybe try some basic use cases or scenarios. 
 
+# Current Draft Scenarios
+
+* Individual Exercises Right to Access Data: [https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_2_1651633002.md](https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_2_1651633002.md)
+* Individual Exercises Right to Delete Data: [https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_3_1651633139.md](https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_3_1651633139.md)
+
 # Potential Scenarios 
 
+* Individual Exercises Right to Access Data from Data Trust: [https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_4_1651633162.md](https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_4_1651633162.md)
 * Potential scenario: focus on data breaches (Brenden)
 * Potential scenario: focus on ownership and control rights of individuals and organizations over their own damn data (Dazza)
 * Potential scenario: focus on role, relationships + rights/responsibilities of a data fiduciary/trust/custodian/etc (Dazza)
