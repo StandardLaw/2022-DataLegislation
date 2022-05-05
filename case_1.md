@@ -1,7 +1,7 @@
 
 # Title: Applicability of Right to Access
 
-**Rule:** 1) Right to be Access
+**Rule:** 1) An individual has the right to access their personal data held by a DROP.  Data derived from personal data but that is not indidivually identifiable is not personal data for purposes of this rule.
 
 **Description**: Alice lives in Laramie, Wyoming and uses the ACME, LLC diary app to make occassional entries about her feelings and activities.  The app also records her location where she created each entry into the diary app.  ACME, llc does data science on the entries of all it's customers to understand aggregate word clouds and frequency of entries correlated to the lunar cycles.  Alice makes a data access request for all the data she has entered into the diary app and all the data about her, both directly and indirectl about her.  
 
