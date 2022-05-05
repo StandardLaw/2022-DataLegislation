@@ -1,8 +1,15 @@
 Note:  Develop some core scenarios and show how application of the Data Privacy and Security Act would provide predictable legal results and how the current situations (ccpa, etc, etc) is super confusing.  EG: Alice and Bob the heck out of this OR maybe try some basic use cases or scenarios. 
 
+# Roadmap:
+
+* Finish "core data rights" scenarios (delete, user authorized agent, correction, do-not-sell)
+* Do "taxonomies" of data (not sure what this is?)
+* Do decentralized context
+* Do all of above for organizations after doing them for individuals.
+
 # Current Draft Scenarios
 
-* Individual Exercises Right to Access Data: [https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_2_1651633002.md](https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_2_1651633002.md)
+* Individual Exercises Right to Access Data: [https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_1.md](https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_1.md)
 * Individual Exercises Right to Delete Data: [https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_3_1651633139.md](https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_3_1651633139.md)
 
 # Potential Scenarios 
