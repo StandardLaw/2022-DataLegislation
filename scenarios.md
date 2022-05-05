@@ -10,11 +10,14 @@ Note:  Develop some core scenarios and show how application of the Data Privacy 
 # Current Draft Scenarios
 
 * Individual Exercises Right to Access Data: [https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_1.md](https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_1.md)
+
+# In-Progress Scenarios 
+
 * Individual Exercises Right to Delete Data: [https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_3_1651633139.md](https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_3_1651633139.md)
-
-# Potential Scenarios 
-
 * Individual Exercises Right to Access Data from Data Trust: [https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_4_1651633162.md](https://github.com/StandardLaw/2022-DataLegislation/blob/main/case_4_1651633162.md)
+
+## Potential Candidate Scenarios
+
 * Potential scenario: focus on data breaches (Brenden)
 * Potential scenario: focus on ownership and control rights of individuals and organizations over their own damn data (Dazza)
 * Potential scenario: focus on role, relationships + rights/responsibilities of a data fiduciary/trust/custodian/etc (Dazza)
