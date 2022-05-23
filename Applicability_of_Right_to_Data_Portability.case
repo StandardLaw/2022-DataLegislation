@@ -1,0 +1,31 @@
+Title: Applicability of Data Portability based on data category and data qualifiers
+
+Rule: An individual has the right to data portability their personal data held by a DROP. Data derived from personal data but that is not individually identifiable is not personal data for purposes of this rule.
+
+Description: Alice lives in Laramie, Wyoming and uses the ACME, LLC shared "Creative Release Therapy Diary" in which she makes collaborative Collages with other Diary members. The dynamic collaborative collages change through
+the course of the day base on personally identifiable images uploaded by each member, the mood they enter into the app at that time of day and location data.
+
+Alice makes a requests to to ACME, LLC to exercises her Right to Data Portability for the 42nd collaborative collages entry in the diary app. ACME, LLC informs here that they cannot honor this request as the data she is requesting is User Generated Data she
+she crated on the Meta Therapy Platform- The collage  collage is a dynamic program and not a single static photo she can download to her computer.
+
+Actors: Alice is a Personal Digital Identity who uploads personal data to ACME, LLC. that provides services to its customer to create User Generated Data Collaborative data on its Platform.
+
+Roles: Alice is a DRH {Data Rights Holder} in the traditional consumer role. ACME, LLC is a DROP {Data Responsibilities Obligations Party} a traditional consumer controller.
+
+Data_and_Data_Sets: Alice's personally identifiable images, mood text and location data. ACME, LLCs' Meta Therapy collages of dynamic shared group data that is only viewable on it's Meta Therapy Platform.
+
+Triggers: Alice exercises her Right to Data Portability by transmitting an right to data portability request to ACME, LLC.
+
+Desired_Outcome: Alice wants the 42nd entry collaborative collage be it was created with her personal data.
+
+Desired_outcome_or_goal_ACME: ACME is willing honor Alice's portability request for the raw data she uploaded but not the dynamic collaborative collage.
+
+Issue: The issue is what of Alice's personal data does Alice she have the right to request a data portability in this case.
+
+Resolution_of_Rights_Provided_by_Statute: [The statue provides Right to Data Portability based on data categories and data qualifiers.] Alice's has a Right to Data Portability of the raw data she uploaded.
+
+Resolution_of_Obligations_Provided_by_Statute: ACME, LLC has an obligation to data prtability of Alice's raw personal data.
+The statute's Right of Data Portability's data category of User Generated data AND data qualifier of dynamic non-portable content exempts ACME, LLC from being required to send the collaborative collage to Alice.
+ACME, LLC sends a notice to Alice reminding her of her consent to this exemption in consent agreement. Alice being in the role of the Data Producer provided by the statute she recieves royalties for her portion 
+of the collabative work even though she cannot download the work itself. 
+

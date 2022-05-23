@@ -1,0 +1,30 @@
+Title: Applicability of the Right to Data Value Opt-In and selective waiver of Data Privacy Rights.
+
+Rule: An individual has the right to Opt-In to the processing of their personal data held by a DROP and waive individual Data Privacy Rights in exchange for monetary or other benefits based on user consent or agreement.
+Data derived from personal data but that is not individually identifiable is not personal data for purposes of this rule.
+
+Description: Alice lives in Laramie, Wyoming and uses the ACME, LLC Work-A-Day app to make entries about her workday including travel location GPS data. Entries are personally identifiable.
+Alice's chooses ACME, LLC 's Data Value Opt-In to provide here personal personal identifiable location data between 8:30 AM and 9:00 am. In her consent agreement she chooses the Data Value Opt-In to be paid for providing
+her location data to ACME, LLC  and waives all future rights of Data Portability, Data Deletion, Correction but not Data Access. Alice latter sends a Right to Opt-Out request to ACME, LLC.
+ACME, LLC informs her in her Data Value Opt-In she consented to irrevocably wave the Data Privacy Opt-Out in exchange for her monthly payment for her personally identifiable information.
+
+Actors: Alice is a Personal Digital Identity who uploads personal location data to ACME, LLC. an Work-A-Day app business. ACME, LLC processes location data and provides royalties for that data.
+
+Roles: Alice is a DRH {Data Rights Holder} in the traditional consumer role. ACME, LLC is a DROP {Data Responsibilities Obligations Party} a traditional consumer controller. ACME LLC, LLC  is a a traditional consumer processor.
+
+Data_and_Data_Sets: Alice's personal location data.
+
+Triggers: Alice exercised her Right to Data Value Opt-In waiving her Right to Opt-Out rights of Data Portability, Data Deletion, Correction and Opt-out but not Right to Data Access. Her request to Opt-Out automatically triggers
+a notice she has waive the Opt-Out right by accepting her Right to Data Value Opt-In. Alice exercised her Right to Data Access.
+
+Desired_Outcome: Alice wants to restrict processing opt-out of ACME, LLC and exercised her Right to Data Access.
+
+Desired_outcome_or_goal_ACME: ACME is willing to honor Alice's Right to Data Access but not her Opt-Out request becaue she has consent to Data Value Opt-In for royalty payments on her personal data.
+
+Issue: The issue is does Alice's still have to Right to restrict processing opt-out in this case.
+
+Resolution_of_Rights_Provided_by_Statute: The statue provides the Right to Data Value Opt-In providing Alice with a small monthly income for her personal data in exchange for providing the data and waiving some but not all of her
+Personal Data Rights.
+
+Resolution_of_Obligations_Provided_by_Statute: ACME, LLC get high quality personal data and is assured it does not have the obligations of Data Portability, Data Deletion, Correction and Opt-out of Alice's personal data. ACME, LLC is willing to pay
+Alice for here data to be relieved of these obligations.

@@ -1,0 +1,31 @@
+Title: Applicability of Right to Correct base on data catagory
+
+Rule: An individual has the right to correct their personal data held by a DROP. Data derived from personal data but that is not individually identifiable is not personal data for purposes of this rule.
+
+Description: Alice lives in Laramie, Wyoming and uses the ACME, LLC shared diary app to make occasional entries about her feelings and activities. Entries are shared with others in here diary group and are personally identifiable.
+ACME, LLC does word frequency data analytics "word clouds" over the diary group submissions which are publicly posted to her diary group. Alice makes a data correction request of
+data she entered into the 42nd entry of the diary app. She requests to exercises her Right to Correction for the entry and the resultant frequency word clouds. ACME, LLC informs her she cannot correct the
+word clouds or her diary entry. She can correct her name and race.
+
+Actors: Alice is a Personal Digital Identity who uploads personal data to ACME, LLC. an personal diary service app business.
+
+Roles: Alice is a DRH {Data Rights Holder} in the traditional consumer role. ACME, LLC is a DROP {Data Responsibilities Obligations Party} a traditional consumer controller.
+
+Data_and_Data_Sets: Alice's personal diary entries, her personal Sensitive data information Name and Race. ACME, LLC aggregate frequency data analytics "word clouds".
+
+Triggers: Alice exercises her Right to Correction by transmitting an right to correction request to ACME, LLC.
+
+Desired_Outcome: Alice wants to correct the 42nd entry of the diary, here name, race and ACME, LLC word frequency cloud analytics.
+
+Desired_outcome_or_goal_ACME: ACME is willing to correct Alice's name and race but not the rest of the diary entry or the frequency data analytics "word clouds".
+
+Issue: The issue is what of Alice's personal data does Alice have the right to request a correction in this case. Does ACME, LLC have an obligation to correct her name and races, the whole of her diary entry and the word cloud?
+
+Resolution_of_Rights_Provided_by_Statute: [The statue provides Right to Correct based on data categories and data qualifiers.] Alice's has a Right to Correct her name and race as it is
+under the data category of Personal Sensitive data.
+
+Resolution_of_Obligations_Provided_by_Statute: ACME, LLC has an obligation to correct Alice's name and race but NOT her 42nd dirary entry or the data anaytics word frequency cloud.
+Alice's name and race are personal data under the data category of Sensitive Personal Data which that statute states ACME, LLC has an obligation to correct.
+The statute's data catagory for personal data that is NOT Sensitive Personal Data provides that the Right to Correct shall be determined by the user consent or other agreements between parties.
+Alice waived her right to correct her personal diary under here consent agreement. The statute's data qualifier for data analytics provides that ACME, LLC does not have an obligation to correct
+data that is not directly submitted by Alice. 

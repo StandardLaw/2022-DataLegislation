@@ -1,0 +1,31 @@
+Title: Applicability of the Restrict Processing Opt-Out Right for advertising and promotions based on data use and data qualifiers.
+
+Rule: An individual has the right to restrict processing opt-out of how their personal data held by a DROP is used for advertising and promotions based on data use and data qualifiers.  Data derived from personal data but that is not individually identifiable is not personal data for purposes of this rule.
+
+Description: Alice lives in Laramie, Wyoming and uses the ACME, LLC shared diary app to make occasional entries about her yoga activities. Entries are personally identifiable.
+ACME, LLC does word frequency data analytics "word clouds" over the diary group submissions which are sold to a 3rd party- Advertising Marketing , LLC. along with Alice's diary entry content for promotion and advertising. ACME, LLC also want to promote its own new services.
+Alice makes a data restrict processing opt-out request of data to ACME, LLC for the data catagory of personal data for the data use of advertising, marketing and promotion of data qualifing as 
+processed by ACME, LLC for advertising, marketing and promotion ACME, LLC other new services. Alice also makes a data restrict processing opt-out request of data qualifing as 
+marketing and promotion of products or services targeting Alice based on processing of specific categories of data acquired from third party sources. Alice wants a yoga mat and would like marketing material on yoga mats from 3Rd parties.
+Alice also want to opt out or the frequency data analytics "word clouds" but wasnt sure if she could.
+
+Actors: Alice is a Personal Digital Identity who uploads personal data to ACME, LLC. an personal diary service app business. Advertising Marketing, LLC who buys Alice's diary entries and word clouds based on those entries to market directly to Alice. 
+
+Roles: Alice is a DRH {Data Rights Holder} in the traditional consumer role. ACME, LLC is a DROP {Data Responsibilities Obligations Party} a traditional consumer controller. Advertising Marketing, LLC  is a a traditional consumer processor. 
+
+Data_and_Data_Sets: Alice's personal diary entries. ACME, LLC aggregate frequency data analytics "word clouds".
+
+Triggers: Alice exercises her Right to Restrict Processing Opt-Out by transmitting an right to restrict processing opt-out request of data use in advertising and marketing purposes with two different data qualifiers.
+
+Desired_Outcome: Alice wants to restrict processing opt-out of ACME, LLC promotion of its own products and services. She wants, however,  her personal data to be processed so she can recieve promotions on yoga mats by third party sources.
+
+Desired_outcome_or_goal_ACME: ACME is willing to restrict processing opt-out of its own promotions. ACME has a happy customer Alices who used data qualifiers to allow ACME's frequency data analytics "word clouds" to provide better quality promotions by 3rd. parties for yoga mats.
+
+Issue: The issue is what of Alice's personal data does Alice have the right to request a restrict processing opt-out in this case given the data use and data qualifiers. Does ACME, LLC has an obligation to restrict processing opt-out of Alice's diary data
+for it own promotion of its services based on the data qualifier Alice provided. ACME, LLC must inform Alice that she can use the data qualifer for the promotion  of products or services by categories of data from third party sources.
+
+Resolution_of_Rights_Provided_by_Statute: [The statue provides Right to Restrict Processing Opt-Out based on data categories and data qualifiers and data use.] Alice's use the statute two different data qualifiers to both Restrict Processing Opt-Out Right
+and enable processing of her personal data. 
+
+Resolution_of_Obligations_Provided_by_Statute: ACME, LLC has an obligation honor Alice's restrict processing opt-out request of her diray data by it use. The use of data qualifiers ACME, LLC. requires two different obligations of ACME. 
+
